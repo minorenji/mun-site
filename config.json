@@ -1,10 +1,10 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://mun-site.netlify.app",
+  "site_title": "mun-site",
+  "site_description": "written by sean lim",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "mun"
     },
     {
       "keyword": "Netlify"
@@ -13,7 +13,8 @@
       "keyword": "React"
     }
   ],
-  "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "posts_per_page": 7,
+  "twitter_account": "s_s.lim",
+  "github_account": "minorenji",
+  "email_address": "ssslim2002@gmail.com"
 }
