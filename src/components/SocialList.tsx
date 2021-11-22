@@ -25,7 +25,7 @@ export function SocialList({}) {
       </a>
       <a
         title="Email"
-        href={`mailto:${config.email_address}`}
+        href={`mailto:${config.email}`}
         target="_blank"
         rel="noopener"
       >
