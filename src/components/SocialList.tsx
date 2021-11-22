@@ -9,7 +9,7 @@ export function SocialList({}) {
     <div>
       <a
         title="Instagram"
-        href={`https://instagram.com/${config.twitter_account}`}
+        href={`https://instagram.com/${config.instagram_account}`}
         target="_blank"
         rel="noopener"
       >
@@ -25,7 +25,7 @@ export function SocialList({}) {
       </a>
       <a
         title="Email"
-        href={`mailto:${config.email}`}
+        href={`mailto:${config.email_address}`}
         target="_blank"
         rel="noopener"
       >
