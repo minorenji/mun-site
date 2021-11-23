@@ -1,5 +1,5 @@
 import React from "react";
-import Instagram from "../assets/instagram.svg";
+import Instagram from "../assets/instagram-alt.svg";
 import GitHub from "../assets/github-alt.svg";
 import Email from "../assets/envelope.svg"
 import config from "../lib/config";
@@ -13,7 +13,7 @@ export function SocialList({}) {
         target="_blank"
         rel="noopener"
       >
-        <Instagram width={24} height={24} fill={"#222222"} />
+        <Instagram width={24} height={24} fill={"#222"} />
       </a>
       <a
         title="GitHub"
