@@ -27,18 +27,6 @@ export default function Navigation() {
               </a>
             </Link>
           </li>
-          <li>
-            <Link href="/spotify">
-              <a
-                className={
-                  router.pathname.startsWith("/spotify") ? "active" : null
-                }
-              >
-                spotify
-              </a>
-            </Link>
-          </li>
-
         </ul>
         <style jsx>
           {`
