@@ -5,3 +5,5 @@ tags:
     name: fiction
   - slug: personal
     name: personal
+  - slug: literature
+    name: literature
