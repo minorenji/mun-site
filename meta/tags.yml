@@ -3,8 +3,8 @@ tags:
     name: document
   - slug: prose
     name: prose
-  - slug: personal
-    name: personal
+  - slug: commentary
+    name: commentary
   - slug: literature
     name: literature
   - slug: poetry
