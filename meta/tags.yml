@@ -9,3 +9,5 @@ tags:
     name: literature
   - slug: poetry
     name: poetry
+  - slug: highlights
+    name: highlights
